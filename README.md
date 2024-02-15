@@ -1,9 +1,10 @@
 # portfolio
-##Point
+---
+## Point
 1. 진행한 프로젝트 보기 좋게 정리 
 2. 창의적인 UI 구성
 3. 지속적인 리팩토링 (처음에 js 위주, 추후에 React로 업그레이드)
-##Contents
+## Contents
 1.소개
   1.1 기본 정보
   1.2 경력
